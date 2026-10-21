@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: exceptional-butterfly-cleaning
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
